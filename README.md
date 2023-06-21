@@ -1,7 +1,7 @@
 # SpreeOS
 A lightweight, bloat-free version of Windows for the highest FPS possible. Windows 11 version soon to come...
 
-**Latest version is 10 1.0**
+**Latest version is 10 1.1**
 
 # Requirements
 
