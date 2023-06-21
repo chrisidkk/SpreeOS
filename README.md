@@ -3,6 +3,11 @@ A lightweight, bloat-free version of Windows for the highest FPS possible. Windo
 
 **Latest version is 10 1.0**
 
+# Requirements
+
+Make sure your computer meets the requirements for Windows 10 and 11 for 64 bit. 32 bit versions are not supported.
+Minimum recommended storage for SpreeOS is 32GB.
+
 # What does it do?
 SpreeOS gets rid of almost all the Windows and Microsoft bloat that comes in a regular Windows installation to improve performance so you can get the highest
 possible frames in any game, or it can make things like rendering much smoother. You decide!
