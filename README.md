@@ -1,5 +1,7 @@
+# Once SpreeOS 11 is released, SpreeOS 10 will no longer be avaliable, I will not provide updates to SpreeOS 10.
+
 # SpreeOS
-A lightweight, bloat-free version of Windows for the highest FPS possible. Windows 11 version soon to come...
+A lightweight, bloat-free version of Windows for the highest FPS possible.
 
 **Latest version is 10 1.1**
 
