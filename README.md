@@ -17,4 +17,4 @@ SpreeOS also disables trackers that Microsoft normally has running on Windows.
 You can use this video as a guide to install SpreeOS. You can also contact me on Discord for help! (chris.idk)
 In the video, skip the media creation tool part since that is creating an ISO, but I already provide one for you.
 
-https://www.youtube.com/watch?v=l9GnWYKyyYo
+https://www.youtube.com/watch?v=wZorsGx-t7Q
