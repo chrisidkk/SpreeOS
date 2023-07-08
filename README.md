@@ -1,13 +1,10 @@
-# Once SpreeOS 11 is released, SpreeOS 10 will no longer be avaliable, I will not provide updates to SpreeOS 10.
-
 # SpreeOS
 A lightweight, bloat-free version of Windows for the highest FPS possible.
-
-**Latest version is 10 1.1**
 
 # Requirements
 Make sure your device can support Windows 11.
 At least 25GB of storage is needed.
+At least a USB drive with 5GB is needed.
 
 # What does it do?
 SpreeOS gets rid of almost all the Windows and Microsoft bloat that comes in a regular Windows installation to improve performance so you can get the highest
@@ -17,12 +14,7 @@ SpreeOS also disables trackers that Microsoft normally has running on Windows.
 
 # Install
 
-1. Make sure you have a USB that is at least 16GB.
-2. Download the ISO from Releases.
-3. Download Rufus.
-4. Put the ISO into Rufus and format the Drive.
-5. Go into your boot menu.
-6. Select the USB drive.
-7. Install SpreeOS.
-8. (Recommended) Install the tweaks folder from the application when you first boot up SpreeOS.
-9. You're done! Enjoy a new fast version of Windows.
+You can use this video as a guide to install SpreeOS. You can also contact me on Discord for help! (chris.idk)
+In the video, skip the media creation tool part since that is creating an ISO, but I already provide one for you.
+
+https://www.youtube.com/watch?v=l9GnWYKyyYo
