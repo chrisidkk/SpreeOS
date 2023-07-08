@@ -14,7 +14,6 @@ SpreeOS also disables trackers that Microsoft normally has running on Windows.
 
 # Install
 
-You can use this video as a guide to install SpreeOS. You can also contact me on Discord for help! (chris.idk)
-In the video, skip the media creation tool part since that is creating an ISO, but I already provide one for you.
+You can use this video as a guide to make your usb drive a bootable drive. You can also contact me on Discord for help! (chris.idk)
 
 https://www.youtube.com/watch?v=wZorsGx-t7Q
