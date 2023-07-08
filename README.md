@@ -1,9 +1,11 @@
 # SpreeOS
-A lightweight, bloat-free version of Windows for the highest FPS possible.
+A lightweight, bloat-free version of Windows for the highest performance possible.
 
 # Requirements
 Make sure your device can support Windows 11.
+
 At least 25GB of storage is needed.
+
 At least a USB drive with 5GB is needed.
 
 # What does it do?
